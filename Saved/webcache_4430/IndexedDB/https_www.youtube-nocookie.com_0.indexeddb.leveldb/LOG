@@ -1,0 +1,6 @@
+2023/11/11-19:23:18.789 7648 Creating DB C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/11-19:23:18.802 7648 Reusing MANIFEST C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/11-19:30:55.098 b2c Level-0 table #5: started
+2023/11/11-19:30:55.108 b2c Level-0 table #5: 1167 bytes OK
+2023/11/11-19:30:55.111 b2c Delete type=0 #3
+2023/11/11-19:30:55.111 b2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
