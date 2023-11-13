@@ -1,3 +1,2 @@
-2023/11/12-12:36:52.732 d1c Reusing MANIFEST C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/11/12-12:36:52.733 d1c Recovering log #3
-2023/11/12-12:36:52.734 d1c Reusing old log C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/11/12-19:03:19.980 7d08 Creating DB C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2023/11/12-19:03:19.996 7d08 Reusing MANIFEST C:/Users/rapmo/Documents/Unreal Projects/backroomTest2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
